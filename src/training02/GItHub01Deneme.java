@@ -23,6 +23,8 @@ public class GItHub01Deneme {
 		System.out.println(a);
 		
 		int ab=90;
+		int yh=343;
+		// python is good
 		
 		
 		
