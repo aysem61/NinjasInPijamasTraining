@@ -6,9 +6,9 @@ public class DenemeGithub01 {
 		// TODO Auto-generated method stub
 		int a=4;
 		
-		String kelime="";
+		String kelime1="";
 		
-		System.out.println(a+kelime);		
+		System.out.println(a+kelime1);		
 		
 		System.out.println("ben ayse can merhabalar herkese ");//bunu tekrar kontrol ediniz.
 
