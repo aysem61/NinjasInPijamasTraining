@@ -4,7 +4,11 @@ public class DenemeGithub01 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(" Local master icin ilk commit asyem gecmeden once ");
+		int a=4;
+		
+		String kelime="";
+		
+		System.out.println(a+kelime);		
 		
 		System.out.println("ben ayse can merhabalar herkese ");
 
