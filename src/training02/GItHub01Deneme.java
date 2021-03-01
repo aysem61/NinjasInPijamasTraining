@@ -23,6 +23,9 @@ public class GItHub01Deneme {
 		System.out.println(a);
 		
 		int ab=90;
+		int cb=32;
+		//hello java
+		
 		
 		
 		
