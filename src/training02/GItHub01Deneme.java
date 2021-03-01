@@ -22,6 +22,8 @@ public class GItHub01Deneme {
 		System.out.println("can dedim ama patlican ciktin ");
 		System.out.println(a);
 		
+		int ab=90;
+		
 		
 		
 
