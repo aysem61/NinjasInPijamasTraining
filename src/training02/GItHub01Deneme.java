@@ -23,8 +23,13 @@ public class GItHub01Deneme {
 		System.out.println(a);
 		
 		int ab=90;
+//asyem den gelen code 
 		int yh=343;
 		// python is good
+//Main den gelen  code
+		int cb=32;
+		//hello java
+
 		
 		
 		
