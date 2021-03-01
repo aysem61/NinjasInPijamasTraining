@@ -10,9 +10,9 @@ public class DenemeGithub01 {
 		
 		System.out.println(a+kelime);		
 		
-		System.out.println("ben ayse can merhabalar herkese ");
+		System.out.println("ben ayse can merhabalar herkese ");//bunu tekrar kontrol ediniz.
 
-		System.out.println("Merhahaba Github ....");
+		System.out.println("Merhahaba Github ....");//yazi kurallarina bakin.
 		
 		System.out.println(" asyem branchi inn commiti ");
 		
