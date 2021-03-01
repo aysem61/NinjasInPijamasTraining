@@ -16,6 +16,11 @@ public class DenemeGithub01 {
 		
 		System.out.println(" asyem branchi inn commiti ");
 		
+		String kelime="";
+		int ghg=12;
+		
+		System.out.print(kelime);
+		
 	}
 
 }
